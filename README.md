@@ -10,7 +10,7 @@ analysis projects on Vision-Language-Action (VLA) models.
 ## Projects
 
 ### 01. FastV + Impromptu-VLA
-- Repo: https://github.com/你的ID/fastv-impromptu-vla
+- Repo: https://github.com/Yanyeoo/Fastv_Impromptu_VLA
 - Keywords: FastV, token pruning, KV cache, sglang, Qwen2.5-VL
 - Status: ✅ reproduced (HF) / ❌ infeasible (sglang, analyzed)
 
