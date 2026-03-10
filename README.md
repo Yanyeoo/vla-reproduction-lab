@@ -25,7 +25,12 @@ analysis projects on Vision-Language-Action (VLA) models.
   * Enabled **GPU Vulkan rendering** via NoMachine virtual display/local display (non-headless)
   * Validated full pipeline: *vision input → language-action alignment → high-level driving actions*
   * Focused on **system-level reproducibility and inference stability**, not model retraining
+  
+### 03. Survey
 
+* Repo: [PRIVATE]([https://github.com/Yanyeoo/simlingo](https://github.com/Yanyeoo/Awesome-Efficient-VLA4AD))
+
+    
 ## About Me
 I am a Master’s student (Class of 2025) in Computer Technology at the University of Electronic Science and Technology of China (UESTC).
 
