@@ -30,7 +30,10 @@ analysis projects on Vision-Language-Action (VLA) models.
 
 * Repo: [PRIVATE]([https://github.com/Yanyeoo/simlingo](https://github.com/Yanyeoo/Awesome-Efficient-VLA4AD))
 
+### 04. MiniLLM TrainingPipline
     
+* Repo: https://github.com/Yanyeoo/MiniLLM-TrainingPipeline
+  
 ## About Me
 I am a Master’s student (Class of 2025) in Computer Technology at the University of Electronic Science and Technology of China (UESTC).
 
