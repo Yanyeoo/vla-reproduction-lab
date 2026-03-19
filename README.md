@@ -33,6 +33,8 @@ analysis projects on Vision-Language-Action (VLA) models.
 ### 04. MiniLLM TrainingPipline
     
 * Repo: https://github.com/Yanyeoo/MiniLLM-TrainingPipeline
+
+### 05.NEW IDEA
   
 ## About Me
 I am a Master’s student (Class of 2025) in Computer Technology at the University of Electronic Science and Technology of China (UESTC).
