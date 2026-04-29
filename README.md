@@ -45,4 +45,6 @@ My research focuses on Efficient Vision-Language-Action (VLA) models for autonom
 
 Previously, I worked as an Algorithm Intern at iQIYI × Lilith (Middle Platform), where I focused on user profiling and user growth modeling, gaining hands-on experience in industrial-scale data, recommendation-related modeling, and system constraints in production environments.
 
+Current Role: Large Model Algorithm Research Intern at Tencent IEG (Interactive Entertainment Group).
+
 Beyond research and engineering, I enjoy dancing and believe that long-term research thrives on curiosity, persistence, and collaboration. I’m always happy to connect and exchange ideas with people who share interests in autonomous driving, multimodal models, and efficient inference systems.
