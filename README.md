@@ -1,11 +1,12 @@
-# VLA Reproduction Lab
+# VLA/WAM Reproduction Lab
 
 This repository serves as an index of my reproduction and system-level
-analysis projects on Vision-Language-Action (VLA) models.
+analysis projects on WM+VLA.
 
 ## Research Interests
-- Autonomous Driving Vision-Language-Action (VLA) models
-- Multimodal inference efficiency and lightweight deployment
+- Efficient WM+VLA in GAME/AD
+- Multimodal inference efficiency
+- 垂直领域后训练/Agentic SFT
 
 ## Projects
 
@@ -34,7 +35,7 @@ analysis projects on Vision-Language-Action (VLA) models.
     
 * Repo: https://github.com/Yanyeoo/MiniLLM-TrainingPipeline
 
-### 05.NEW IDEA
+### 05.基于场景动态剪枝器（基于AutoVLA/目前考虑换成WAM）
 
 * Repo: https://github.com/Yanyeoo/RL-Drive
   
