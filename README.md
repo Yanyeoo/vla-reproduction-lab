@@ -38,7 +38,8 @@ analysis projects on WM+VLA.
 ### 05.基于场景动态剪枝器（基于AutoVLA/目前考虑换成WAM）
 
 * Repo: https://github.com/Yanyeoo/RL-Drive
-  
+### 06.游戏装包测试/局内局外 GUI AGENT
+### Efficient WAM 
 ## About Me
 I am a Master’s student (Class of 2025) in Computer Technology at the University of Electronic Science and Technology of China (UESTC).
 
