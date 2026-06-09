@@ -51,6 +51,9 @@ This repository serves as an index of my reproduction and system-level analysis 
 - **Status:** In Progress
 - **Notes:** Continued research on World-Action Model lightweighting and inference acceleration.
 
+### 09.Skills
+- **Repo:** https://github.com/Yanyeoo/inspiration-workflow-skill
+
 ## About Me
 I am a Master’s student (Class of 2028) in Computer Technology at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China (UESTC). 
 
