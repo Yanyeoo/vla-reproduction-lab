@@ -59,8 +59,6 @@ I am a Master’s student (Class of 2028) in Computer Technology at the Shenzhen
 
 My research focuses on **Efficient Vision-Language-Action (VLA) models** and **inference acceleration**. I am especially interested in how large multimodal models can be made practical and deployable under real-world latency and memory constraints.
 
-Previously, I gained professional experience as an Algorithm Intern at **iQIYI** (focusing on LLM-based user profiling) and **Lilith Games** (focusing on user growth and intelligent advertising), acquiring hands-on experience with industrial-scale data, recommendation modeling, and production system constraints. 
-
-**Current Role:** Large Model Algorithm Research Intern at **Tencent IEG (Interactive Entertainment Group)**.
+Previously, I gained professional experience as an Algorithm Intern at **iQIYI** (focusing on LLM-based user profiling) and **Lilith Games** (focusing on user growth and intelligent advertising), acquiring hands-on experience with industrial-scale data, recommendation modeling, and production system constraints. As well as Large Model Algorithm Research Intern at **Tencent IEG (Interactive Entertainment Group)**.
 
 Beyond research and engineering, I enjoy dancing and believe that long-term research thrives on curiosity, persistence, and collaboration. I’m always happy to connect and exchange ideas with people who share interests in autonomous driving, UAV navigation, multimodal models, and efficient inference systems.
